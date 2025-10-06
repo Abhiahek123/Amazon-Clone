@@ -7,3 +7,8 @@ It replicates the basic look and feel of Amazon, including product listings and 
 - Product layout similar to Amazon
 - Responsive design for mobile and desktop
 
+
+## How to View
+You can view this project **live** using GitHub Pages:
+
+[View Live Project](https://Abhishek123.github.io/Amazon-Clone/)
